@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnthonyGunardi/kanban-server.git"
+    "url": "git+https://github.com/AnthonyGunardi/Kanban-server.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Anthony Gunardi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AnthonyGunardi/kanban-server/issues"
+    "url": "https://github.com/AnthonyGunardi/Kanban-server/issues"
   },
-  "homepage": "https://github.com/AnthonyGunardi/kanban-server#readme",
+  "homepage": "https://github.com/AnthonyGunardi/Kanban-server#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
