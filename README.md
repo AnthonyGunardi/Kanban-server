@@ -1,5 +1,5 @@
 # Kanban-server
-Server for [kanban app](https://github.com/AnthonyGunardi/kanban-client), created using node.js, express, sequelize, postgreSQL.
+Server for [kanban app](https://github.com/AnthonyGunardi/Kanban-client), created using node.js, express, sequelize, postgreSQL.
 
 
 ## URL:
